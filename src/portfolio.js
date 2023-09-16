@@ -129,8 +129,8 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "consultadd inc",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2021 – May 2022",
+      companylogo: require("./assets/images/consultaddlogo.png"),
+      date: "June 2021 – Dec 2022",
       desc: "Responsible for creating, maintaining, and improving software applications, ensuring they meet the needs of users .",
       descBullets: [
         "Requirements Analysis",
@@ -194,11 +194,11 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Machine learning",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/iitkanpurlogo.png"),
+      imageAlt: "iitkanpurlogo",
       footerLink: [
         {
           name: "Certification",
