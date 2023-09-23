@@ -11,6 +11,7 @@ const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
   duration: 2000 // Set animation duration as per your animation
+
 };
 
 // Summary And Greeting Section
@@ -197,7 +198,7 @@ const achievementSection = {
       title: "Machine learning",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/iitkanpurlogo.png"),
+      image: require("./assets/images/iitkanpurlogo.png "),
       imageAlt: "iitkanpurlogo",
       footerLink: [
         {
@@ -215,7 +216,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title:"Artificial Intelligence",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
@@ -229,7 +230,7 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
+      title: " English language Proficiency",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
@@ -240,7 +241,85 @@ const achievementSection = {
           url: "https://pakistan-olx-1.firebaseapp.com/"
         }
       ]
+    },
+    {
+      title: " Data Science using Python",
+      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        {name: "Certification", url: ""},
+        {
+          name: "Final Project",
+          url: "https://pakistan-olx-1.firebaseapp.com/"
+        }
+      ]
+   },
+   {
+    title: " Embedded Hardware and Operating Systems",
+    subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    image: require("./assets/images/pwaLogo.webp"),
+    imageAlt: "PWA Logo",
+    footerLink: [
+      {name: "Certification", url: ""},
+      {
+        name: "Final Project",
+        url: "https://pakistan-olx-1.firebaseapp.com/"
+      }
+    ]
+ },
+ {
+  title: " Cybersecurity and the Internet of Things",
+  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  image: require("./assets/images/pwaLogo.webp"),
+  imageAlt: "PWA Logo",
+  footerLink: [
+    {name: "Certification", url: ""},
+    {
+      name: "Final Project",
+      url: "https://pakistan-olx-1.firebaseapp.com/"
     }
+  ]
+},
+{
+  title: " The Raspberry Pi Platform and Python Programming for the Raspberry Pi",
+  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  image: require("./assets/images/pwaLogo.webp"),
+  imageAlt: "PWA Logo",
+  footerLink: [
+    {name: "Certification", url: ""},
+    {
+      name: "Final Project",
+      url: "https://pakistan-olx-1.firebaseapp.com/"
+    }
+  ]
+},
+{
+  title: "  C++ For C Programmers, Part A",
+  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  image: require("./assets/images/pwaLogo.webp"),
+  imageAlt: "PWA Logo",
+  footerLink: [
+    {name: "Certification", url: ""},
+    {
+      name: "Final Project",
+      url: "https://pakistan-olx-1.firebaseapp.com/"
+    }
+  ]
+},
+{
+  title: "   Write Professional Emails in English",
+  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  image: require("./assets/images/pwaLogo.webp"),
+  imageAlt: "PWA Logo",
+  footerLink: [
+    {name: "Certification", url: ""},
+    {
+      name: "Final Project",
+      url: "https://pakistan-olx-1.firebaseapp.com/"
+    }
+  ]
+}
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -266,7 +345,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
