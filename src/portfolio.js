@@ -198,7 +198,7 @@ const achievementSection = {
       title: "Machine learning",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/iitkanpurlogo.png "),
+      // image: require("./assets/images/iitkanpurlogo.png "),
       imageAlt: "iitkanpurlogo",
       footerLink: [
         {
@@ -217,6 +217,19 @@ const achievementSection = {
     },
     {
       title:"Artificial Intelligence",
+      subtitle:
+        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      image: require("./assets/images/googleAssistantLogo.webp"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "View Google Assistant Action",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+    {
+      title:"AWS certified Solution Architect",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
@@ -308,7 +321,7 @@ const achievementSection = {
   ]
 },
 {
-  title: "   Write Professional Emails in English",
+  title: "   Write Professional Emails in English ",
   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
   image: require("./assets/images/pwaLogo.webp"),
   imageAlt: "PWA Logo",
