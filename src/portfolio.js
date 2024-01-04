@@ -226,8 +226,8 @@ const achievementSection = {
     {
       title: " Oxford Achiever",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/courseralogo.png"),
-      imageAlt: "coursera Logo",
+      image: require("./assets/images/oxford1.png"),
+      imageAlt: "oxford Logo",
       footerLink: [
         {name: "Certification", url: "https://drive.google.com/file/d/1lKqMC8MFEqLa-cozTiydPDMwyh_psdru/view?usp=sharing"},
 
