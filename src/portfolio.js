@@ -224,12 +224,12 @@ const achievementSection = {
     },
 
     {
-      title: " English language Proficiency",
+      title: " Oxford Achiever",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/courseralogo.png"),
       imageAlt: "coursera Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://drive.google.com/file/d/1lKqMC8MFEqLa-cozTiydPDMwyh_psdru/view?usp=sharing"},
 
       ]
     },
@@ -239,7 +239,7 @@ const achievementSection = {
       image: require("./assets/images/courseralogo.png"),
       imageAlt: "coursera Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", url: "https://drive.google.com/file/d/17wIYN8bXqiFaY0a70RN57aKDIcm8dTpb/view?usp=sharing"},
       ]
    },
    {
@@ -248,7 +248,7 @@ const achievementSection = {
     image: require("./assets/images/courseralogo.png"),
     imageAlt: "coursera Logo",
     footerLink: [
-      {name: "Certification", url: ""},
+      {name: "Certification", url: "https://drive.google.com/file/d/1936cQDHU_xolmOoBJwoUJdxZGFYf-kOs/view?usp=sharing"},
      
     ]
  },
@@ -258,7 +258,7 @@ const achievementSection = {
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
-    {name: "Certification", url: ""},
+    {name: "Certification", url: "https://drive.google.com/file/d/1M0uQ1K0oA_MW29kaUFWJhnp3iV3TKHak/view?usp=sharing"},
   
   ]
 },
@@ -268,7 +268,7 @@ const achievementSection = {
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
-    {name: "Certification", url: ""},
+    {name: "Certification", url: "https://drive.google.com/file/d/1munfJR_Z42Iooa3goietBZlbPCo7Cg7J/view?usp=sharing"},
     
   ]
 },
@@ -278,7 +278,7 @@ const achievementSection = {
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
-    {name: "Certification", url: ""},
+    {name: "Certification", url: "https://drive.google.com/file/d/15C_x4E72motMC5qR_m8HgpO2vsQ8t9HE/view?usp=sharing"},
    
   ]
 },
@@ -288,7 +288,7 @@ const achievementSection = {
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
-    {name: "Certification", url: ""},
+    {name: "Certification", url: "https://drive.google.com/file/d/15j5muDxQ61MmCHVMSwfpc-wOZBi2MxaD/view?usp=sharing"},
    
   ]
 }
