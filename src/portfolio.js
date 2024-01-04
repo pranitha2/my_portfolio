@@ -197,7 +197,7 @@ const achievementSection = {
     {
       title: "Machine learning",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Attended Machine learning workshop in IIT kanpur ",
       image: require("./assets/images/iitkanpurlogo.png"),
       imageAlt: "iitkanpur Logo",
       footerLink: [
@@ -212,7 +212,7 @@ const achievementSection = {
     {
       title:"AWS certified Solution Architect",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Completed certification from Amazon web services.",
       image: require("./assets/images/awslogo.png"),
       imageAlt: "AWS Logo",
       footerLink: [
@@ -225,7 +225,7 @@ const achievementSection = {
 
     {
       title: " Oxford Achiever",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      subtitle: "Completed Certifcation from oxford for english language profeciency",
       image: require("./assets/images/oxford1.png"),
       imageAlt: "oxford Logo",
       footerLink: [
@@ -235,7 +235,7 @@ const achievementSection = {
     },
     {
       title: " Data Science using Python",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      subtitle: "Completed Certifcation from COURSERA for introduction to Data Science using Python ",
       image: require("./assets/images/courseralogo.png"),
       imageAlt: "coursera Logo",
       footerLink: [
@@ -244,7 +244,7 @@ const achievementSection = {
    },
    {
     title: " Embedded Hardware and Operating Systems",
-    subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    subtitle: "Completed Certifcation from coursera for mbedded Hardware and Operating Systems",
     image: require("./assets/images/courseralogo.png"),
     imageAlt: "coursera Logo",
     footerLink: [
@@ -254,7 +254,7 @@ const achievementSection = {
  },
  {
   title: " Cybersecurity and the Internet of Things",
-  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  subtitle: "Completed Certifcation from coursera for Cybersecurity and the Internet of Things",
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
@@ -264,7 +264,7 @@ const achievementSection = {
 },
 {
   title: " The Raspberry Pi Platform and Python Programming for the Raspberry Pi",
-  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  subtitle: "Completed Certifcation from coursera for The Raspberry Pi Platform and Python Programming for the Raspberry Pi",
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
@@ -274,7 +274,7 @@ const achievementSection = {
 },
 {
   title: "  C++ For C Programmers, Part A",
-  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  subtitle: "Completed Certifcation from coursera for C++ For C Programmers",
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
@@ -284,7 +284,7 @@ const achievementSection = {
 },
 {
   title: "   Write Professional Emails in English ",
-  subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+  subtitle: "Completed Certifcation from coursera for Write Professional Emails",
   image: require("./assets/images/courseralogo.png"),
   imageAlt: "coursera Logo",
   footerLink: [
