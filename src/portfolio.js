@@ -198,8 +198,8 @@ const achievementSection = {
       title: "Machine learning",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      // image: require("./assets/images/iitkanpurlogo.png "),
-      imageAlt: "iitkanpurlogo",
+      image: require("./assets/images/iitkanpurlogo.png"),
+      imageAlt: "iitkanpur Logo",
       footerLink: [
         {
           name: "Certification",
@@ -215,28 +215,16 @@ const achievementSection = {
         }
       ]
     },
-    {
-      title:"Artificial Intelligence",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
+   
     {
       title:"AWS certified Solution Architect",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      image: require("./assets/images/awslogo.png"),
+      imageAlt: "AWS Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "AWS certified Solution Architect",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
@@ -245,8 +233,8 @@ const achievementSection = {
     {
       title: " English language Proficiency",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/courseralogo.png"),
+      imageAlt: "coursera Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
@@ -258,8 +246,8 @@ const achievementSection = {
     {
       title: " Data Science using Python",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/courseralogo.png"),
+      imageAlt: "coursera Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
@@ -271,8 +259,8 @@ const achievementSection = {
    {
     title: " Embedded Hardware and Operating Systems",
     subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-    image: require("./assets/images/pwaLogo.webp"),
-    imageAlt: "PWA Logo",
+    image: require("./assets/images/courseralogo.png"),
+    imageAlt: "coursera Logo",
     footerLink: [
       {name: "Certification", url: ""},
       {
@@ -284,8 +272,8 @@ const achievementSection = {
  {
   title: " Cybersecurity and the Internet of Things",
   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-  image: require("./assets/images/pwaLogo.webp"),
-  imageAlt: "PWA Logo",
+  image: require("./assets/images/courseralogo.png"),
+  imageAlt: "coursera Logo",
   footerLink: [
     {name: "Certification", url: ""},
     {
@@ -297,8 +285,8 @@ const achievementSection = {
 {
   title: " The Raspberry Pi Platform and Python Programming for the Raspberry Pi",
   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-  image: require("./assets/images/pwaLogo.webp"),
-  imageAlt: "PWA Logo",
+  image: require("./assets/images/courseralogo.png"),
+  imageAlt: "coursera Logo",
   footerLink: [
     {name: "Certification", url: ""},
     {
@@ -310,8 +298,8 @@ const achievementSection = {
 {
   title: "  C++ For C Programmers, Part A",
   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-  image: require("./assets/images/pwaLogo.webp"),
-  imageAlt: "PWA Logo",
+  image: require("./assets/images/courseralogo.png"),
+  imageAlt: "coursera Logo",
   footerLink: [
     {name: "Certification", url: ""},
     {
@@ -323,8 +311,8 @@ const achievementSection = {
 {
   title: "   Write Professional Emails in English ",
   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-  image: require("./assets/images/pwaLogo.webp"),
-  imageAlt: "PWA Logo",
+  image: require("./assets/images/courseralogo.png"),
+  imageAlt: "coursera Logo",
   footerLink: [
     {name: "Certification", url: ""},
     {
