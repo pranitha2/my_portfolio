@@ -218,7 +218,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "AWS certified Solution Architect",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1wVzxvK7ErTynlVndkLPZwH0yp78ZT5Yj/view?usp=sharing"
         }
       ]
     },
